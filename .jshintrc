@@ -1,28 +1,21 @@
 {
-  "globals": {
-    "jQuery": true,
-    "module": true,
-    "$": true,
-    "ok":true,
-    "test":true,
-    "document": true
-  },
+  "node": true,
   "browser": true,
+  "esnext": true,
   "bitwise": true,
-  "camelcase":true,
+  "camelcase": true,
   "curly": true,
   "eqeqeq": true,
-  "freeze": true,
   "immed": true,
+  "indent": 2,
   "latedef": true,
   "newcap": true,
   "noarg": true,
   "quotmark": "single",
-  "noempty": true,
-  "nonew": true,
-  "trailing": true,
+  "regexp": true,
   "undef": true,
   "unused": true,
   "strict": true,
-  "node": true
+  "trailing": true,
+  "smarttabs": true
 }

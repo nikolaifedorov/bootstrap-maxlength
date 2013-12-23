@@ -1,13 +1,12 @@
 /* ==========================================================
- * bootstrap-maxlength.js see package.json
+ * bootstrap-maxlength
  *
  * Copyright (c) 2014 Maurizio Napoleoni;
  *
  * Licensed under the terms of the MIT license.
  * See: https://github.com/mimo84/bootstrap-maxlength/blob/master/LICENSE
  * ========================================================== */
-/*jslint browser:true*/
-/*global  jQuery*/
+
 (function ($) {
     'use strict';
 
@@ -336,3 +335,4 @@
         }
     });
 }(jQuery));
+

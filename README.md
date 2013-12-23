@@ -1,7 +1,7 @@
 # [Bootstrap MaxLength](http://mimo84.github.com/bootstrap-maxlength/) [![Build Status](https://travis-ci.org/mimo84/bootstrap-maxlength.png?branch=master)](https://travis-ci.org/mimo84/bootstrap-maxlength) [![Total views](https://sourcegraph.com/api/repos/github.com/mimo84/bootstrap-maxlength/counters/views.png)](https://sourcegraph.com/github.com/mimo84/bootstrap-maxlength)
 
 
-This plugin integrates by default with Twitter bootstrap using badges to display the maximum length of the field where the user is inserting text. 
+This plugin integrates by default with Twitter bootstrap using badges to display the maximum length of the field where the user is inserting text.
 This plugin uses the HTML5 attribute "maxlength" to work.
 
 
@@ -71,7 +71,7 @@ The same example using the message option:
 ### 1.4.2
 
 * Fixed issue with counting when the user moves with shift+tab keyboard shortcut.
-* Replaced the warningClass limitReachedClass options to use labels rather than badges for Bootstrap 3.0 better compatibility. 
+* Replaced the warningClass limitReachedClass options to use labels rather than badges for Bootstrap 3.0 better compatibility.
 
 ### 1.4.1
 
