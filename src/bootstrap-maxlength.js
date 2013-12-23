@@ -1,7 +1,7 @@
 /* ==========================================================
- * bootstrap-maxlength.js v1.4.2
+ * bootstrap-maxlength.js see package.json
  *
- * Copyright (c) 2013 Maurizio Napoleoni;
+ * Copyright (c) 2014 Maurizio Napoleoni;
  *
  * Licensed under the terms of the MIT license.
  * See: https://github.com/mimo84/bootstrap-maxlength/blob/master/LICENSE
